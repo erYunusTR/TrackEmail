@@ -31,7 +31,7 @@ Embed a tiny (1x1 resolution preferably) image inside the body of the email, wit
 
 * Send this with Postman=
 
-  ```
+```
   {
 	"subject": "Subject Line",
 	"to": "test@gmail.com",
@@ -41,7 +41,7 @@ Embed a tiny (1x1 resolution preferably) image inside the body of the email, wit
 
 
 # Mongo DB
-  ```
+```
   $ brew install mongodb
   $ mongod
   $ mongo
